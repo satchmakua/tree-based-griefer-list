@@ -1,5 +1,4 @@
 # Satchel Hamilton
-# CS 450
 # Project 3 - Griefer List
 # Command line args supported: "avl"
 
